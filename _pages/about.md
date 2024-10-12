@@ -18,134 +18,43 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
+I am currently a postdoc in the [FAIR Lab](https://sites.google.com/view/fairailab) led by [Prof. Hadi Hosseini](https://faculty.ist.psu.edu/hadi/index.html), at The Pennsylvania State University. 
+Prior to this, I was a postdoc at City University of Hong Kong advised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/), and at The Hong Kong Polytechnic University advised by [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). 
 
-<!--
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
--->
+I obtained my PhD degree from The Hong Kong Polytechnic University in 2023, where I was extremely fortunate to be advised by Dr. Bo Li. 
+Prior to that, I obtained my Bachelor degree from Huazhong University of Science and Technology in 2019, where I was a member of the ACM Class. 
 
-From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
+From March to May in 2023, I visited University of Oxford, advised by [Prof. Jiarui Gan](https://jgan.xyz/). From March to May in 2022, I also visited Chinese Academy of Sciences, advised by [Prof. Xiaoming Sun](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328241.html) and [Prof. Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html). 
 
-In my first two years before joining ByteDance, I conducted research work on the Graduate Thesis at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==).
+My research interests lie in computational social choice and especially fair division, algorithm design and analysis.
+If you are interested in cooperating or discussing with me, please do not hesitate to to drop me an email. 
 
-My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
+# News
+- **Oct 2024**: &nbsp;I joined the FAIR Lab led by Prof. Hadi Hosseini at The Pennsylvania State University as a postdoc. 
 
-You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com).
+# Publications
+*Note that [&alpha;-&beta;] denotes alphabetical ordering of authors. [(why?)](https://wissenschaftliche-integritaet.de/en/comments/author-order-in-mathematics/)*
 
-<!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
+[&alpha;-&beta;] **On Hill’s Worst-Case Guarantee for Indivisible Bads** (TEAC)  
+*Bo Li, Hervé Moulin, Ankang Sun, **Yu Zhou*** 
 
-<!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
+[&alpha;-&beta;] **Locating Two Facilities on a Square with a Minimum Distance Requirement** (IJTCS-FAW 2024)  
+*Weian Li*, ***Yu Zhou***
 
-# 🔥 News
-- *2024.02*: &nbsp;New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.
-- *2023.12*: &nbsp;New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
-- *2023.10*: &nbsp;🎉🎉New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.
-- *2023.08*: &nbsp;🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
-- *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
+**A Complete Landscape of EFX Allocations on Graphs: Goods, Chores and Mixed Manna** (IJCAI 2024)  
+***Yu Zhou**, Tianze Wei, Minming Li, Bo Li*
 
-# 📝 Publications 
-- 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[&alpha;-&beta;] **On Hill’s Worst-Case Guarantee for Indivisible Bads** (WINE 2023)  
+*Bo Li, Hervé Moulin, Ankang Sun, **Yu Zhou***
 
-[Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/10217826)
+[&alpha;-&beta;] **Fair Allocation of Indivisible Chores: Beyond Additive Costs** (NeurIPS 2023)  
+*Bo Li, Fangxiao Wang, **Yu Zhou***
 
-**Ming Zhan**, Jingjing Fan, Jianying Guo
+[&alpha;-&beta;] **Possible Fairness for Allocating Indivisible Resources** (AAMAS 2023)  
+*Haris Aziz, Bo Li, Shiji Xing, **Yu Zhou***
 
-[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong>
-- IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
-</div>
-</div>
+**On the Profitability of Selfish Mining Attack under the Checkpoint Mechanism** (GLOBECOM 2023)  
+***Yu Zhou**, Shang Gao, Weiwei Qiu, Kai Lei, Bin Xiao*
 
-<!--
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2023</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Research on two-stage semi-active ISD suspension based on improved fuzzy neural network PID control](https://www.mdpi.com/1424-8220/23/20/8388)
-
-Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
-
-[**Project**](https://www.mdpi.com/1424-8220/23/20/8388) | <strong>SCI Journal Paper</strong>
-- Sensors 23, no. 20: 8388. https://doi.org/10.3390/s23208388.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTETS 2023</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Research on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short)
-
- **Ming Zhan**, Jingjing Fan, Linhao Jin
-
-[**Project**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short) | <strong>EI International Conference</strong>
-- Proc. SPIE 13064, Seventh International Conference on Traffic Engineering and Transportation System (ICTETS 2023), 130643A (20 February 2024); https://doi.org/10.1117/12.3015773.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCIR 2023</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Research on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter](https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short)
-
-Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
-
-[**Project**](https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short) | <strong>EI International Conference</strong>
-- Proc. SPIE 12940, Third International Conference on Control and Intelligent Robotics (ICCIR 2023), 129401G (1 December 2023); https://doi.org/10.1117/12.3010611.
-</div>
-</div>
-
-- [Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620), Ren Li, **Ming Zhan**, Jingjing Fan, Auto Know (In Chinese) 2022
-
-# 🎖 Honors and Awards
-- *2024.06* Beijing Outstanding Graduate (Top 1%)
-- *2023.10* China National Scholarship (Top 1%)
-- *2021-2023* Outstanding Graduate Student at the School Level (Top 5%)
-- *2022.10* Postgraduate First-Class Scholarship (Top 10%)
-
-# 📖 Educations
-- *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
-  - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==)
-- *2017.09 - 2021.07*, Bachelor of Engineering in Software Engineering, Zhuhai College of Jilin University, Zhuhai, China
-  - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm)
-
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
-
-# 💻 Internships
-- 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DouBao - Large Language Model (LLM) Product](https://www.doubao.com/chat/)
-
-**Department · China Content Quality and DataRocks · Mathematical Logic | Sequence · Data Science**
-- Advised by Mr. Zhaojian Li
-- Jun. 2023 - Jan. 2024
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workstation of Mao Ming, Academician, CAS</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Jiangsu Shengyu Intelligent Equipment Technology Co., Ltd. ](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750)
-
-**Sequence · Research and Development Engineer**
-- Advised by Dr. Jingjing Fan
-- Jul. 2022 - May. 2023
-</div>
-</div>
-
-------
-
-<p align="center">
-  <i>I know I am not the perfect one, yet aspire to chase the world and achieve greatness@Ming Zhan</i>
-</p>
+**Solsaviour: A Defending Framework for Deployed Defective Smart Contracts** (ASCAC 2021)  
+*Zecheng Li, **Yu Zhou**, Songtao Guo, Bin Xiao*
