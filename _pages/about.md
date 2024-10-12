@@ -33,7 +33,7 @@ If you are interested in cooperating or discussing with me, please do not hesita
 - **Oct 2024**: &nbsp;I joined the FAIR Lab led by Prof. Hadi Hosseini at The Pennsylvania State University as a postdoc. 
 
 # Publications
-*Note that [&alpha;-&beta;] denotes alphabetical ordering of authors. [(why?)](https://wissenschaftliche-integritaet.de/en/comments/author-order-in-mathematics/)*
+*Note that [&alpha;-&beta;] denotes alphabetical ordering of authors. 
 
 [&alpha;-&beta;] **On Hill’s Worst-Case Guarantee for Indivisible Bads** (TEAC)  
 *Bo Li, Hervé Moulin, Ankang Sun, **Yu Zhou*** 
