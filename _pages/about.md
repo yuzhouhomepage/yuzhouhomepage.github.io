@@ -27,7 +27,7 @@ Prior to that, I obtained my Bachelor degree from Huazhong University of Science
 From March to May in 2023, I visited University of Oxford, advised by [Prof. Jiarui Gan](https://jgan.xyz/). From March to May in 2022, I also visited Chinese Academy of Sciences, advised by [Prof. Xiaoming Sun](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328241.html) and [Prof. Jialin Zhang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328233.html). 
 
 My research interests lie in computational social choice and especially fair division, algorithm design and analysis.
-If you are interested in cooperating or discussing with me, please do not hesitate to to drop me an email. 
+If you are interested in cooperating or discussing with me, please do not hesitate to drop me an email. 
 
 # News
 - **Oct 2024**: &nbsp;I joined the FAIR Lab led by Prof. Hadi Hosseini at The Pennsylvania State University as a postdoc. 
