@@ -39,6 +39,8 @@ If you are interested in cooperating or discussing with me, please do not hesita
 *Bo Li, Ankang Sun, Zunyu Wang, **Yu Zhou***
 
 # Publications
+*Note that [&alpha;-&beta;] denotes alphabetical ordering of authors. 
+
 [&alpha;-&beta;] **On Hill’s Worst-Case Guarantee for Indivisible Bads** (TEAC)  
 *Bo Li, Hervé Moulin, Ankang Sun, **Yu Zhou*** 
 
