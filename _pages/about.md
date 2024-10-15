@@ -35,7 +35,7 @@ If you are interested in cooperating or discussing with me, please do not hesita
 # Working Papers
 *Note that [&alpha;-&beta;] denotes alphabetical ordering of authors. 
 
-[&alpha;-&beta;] **Cardinal Approximation of Maximin Share Allocation for Groups**
+[&alpha;-&beta;] **Cardinal Approximation of Maximin Share Allocation for Groups**  
 *Bo Li, Ankang Sun, Zunyu Wang, **Yu Zhou***
 
 # Publications
