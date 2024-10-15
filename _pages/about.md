@@ -30,11 +30,15 @@ My research interests lie in computational social choice and especially fair div
 If you are interested in cooperating or discussing with me, please do not hesitate to drop me an email. 
 
 # News
-- **Oct 2024**: &nbsp;I joined the FAIR Lab led by Prof. Hadi Hosseini at The Pennsylvania State University as a postdoc. 
+- **Oct 2024**: &nbsp;I joined the FAIR Lab led by Prof. Hadi Hosseini at The Pennsylvania State University as a postdoc.
 
-# Publications
+# Working Papers
 *Note that [&alpha;-&beta;] denotes alphabetical ordering of authors. 
 
+[&alpha;-&beta;] **Cardinal Approximation of Maximin Share Allocation for Groups** (TEAC)  
+*Bo Li, Ankang Sun, Zunyu Wang, **Yu Zhou***
+
+# Publications
 [&alpha;-&beta;] **On Hill’s Worst-Case Guarantee for Indivisible Bads** (TEAC)  
 *Bo Li, Hervé Moulin, Ankang Sun, **Yu Zhou*** 
 
