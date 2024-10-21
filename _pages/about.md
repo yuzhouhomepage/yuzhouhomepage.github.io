@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome! 
 I am currently a postdoc in the [FAIR Lab](https://sites.google.com/view/fairailab) led by [Prof. Hadi Hosseini](https://faculty.ist.psu.edu/hadi/index.html), at The Pennsylvania State University. 
-Prior to this, I was a postdoc at City University of Hong Kong advised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/), and at The Hong Kong Polytechnic University advised by [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). 
+Prior to this, I was a postdoc at The Hong Kong Polytechnic University advised by [Dr. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), and at City University of Hong Kong advised by [Prof. Minming Li](https://www.cs.cityu.edu.hk/~minmli/). 
 
 I obtained my PhD degree from The Hong Kong Polytechnic University in 2023, where I was extremely fortunate to be advised by Dr. Bo Li. 
 Prior to that, I obtained my Bachelor degree from Huazhong University of Science and Technology in 2019, where I was a member of the ACM Class. 
