@@ -29,9 +29,6 @@ From March to May in 2023, I visited University of Oxford, advised by [Prof. Jia
 My research interests lie in computational social choice and especially fair division, algorithm design and analysis.
 If you are interested in cooperating or discussing with me, please do not hesitate to drop me an email. 
 
-% # News
-% - **Oct 2024**: &nbsp;I joined the FAIR Lab led by Prof. Hadi Hosseini at The Pennsylvania State University as a postdoc.
-
 # Working Papers
 *Note that [&alpha;-&beta;] denotes alphabetical ordering of authors. 
 
