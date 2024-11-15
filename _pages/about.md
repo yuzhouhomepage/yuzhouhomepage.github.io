@@ -62,5 +62,8 @@ If you are interested in cooperating or discussing with me, please do not hesita
 **On the Profitability of Selfish Mining Attack under the Checkpoint Mechanism** (GLOBECOM 2023)  
 ***Yu Zhou**, Shang Gao, Weiwei Qiu, Kai Lei, Bin Xiao*
 
+[&alpha;-&beta;] **Maximin Share Fair Allocation of Indivisible Chores: Beyond Additive Valuations** (MATCH-UP 2022)  
+*Bo Li, Fangxiao Wang, **Yu Zhou***
+
 **Solsaviour: A Defending Framework for Deployed Defective Smart Contracts** (ASCAC 2021)  
 *Zecheng Li, **Yu Zhou**, Songtao Guo, Bin Xiao*
